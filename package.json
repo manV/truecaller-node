@@ -1,6 +1,6 @@
 {
-  "name": "@vyng/truecaller-node",
-  "version": "1.0.8",
+  "name": "@mananv/truecaller-node",
+  "version": "1.0.9",
   "description": "Node Truecaller profile verification",
   "main": "index.js",
   "repository": {
@@ -22,7 +22,6 @@
   "homepage": "https://github.com/vyng/truecaller-node",
   "dependencies": {
     "moize": "5.4.4",
-    "pemtools": "0.4.7",
     "request": "2.88.0"
   },
   "devDependencies": {
